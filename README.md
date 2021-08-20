@@ -1,4 +1,4 @@
-# [SpaceParking]
+# SpaceParking
 Space Parking is a platform developed in php where the user can pay and reserve their parking space from anywhere, just using a smartphone
 
 
